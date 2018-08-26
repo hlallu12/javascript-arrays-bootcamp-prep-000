@@ -27,4 +27,5 @@ function removeElementFromBeginningOfArray(array, element){
 }
 function removalElementFromBeginningOfArray(array, element){
   array.unshift(element)
+  return array
 }
