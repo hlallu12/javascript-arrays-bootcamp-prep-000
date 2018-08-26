@@ -32,4 +32,4 @@ function destructivelyRemoveElementFromEndOfArray(array, element){
   array.pop(element)
   return array
 }
-function 
+function removeElementFromEndOfArray(array, element)
